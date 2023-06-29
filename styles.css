@@ -1,0 +1,32 @@
+h1{
+    color:blueviolet;
+}
+thead{
+    color:aqua;
+}
+tbody{
+    color:darkgreen;
+}
+h2{
+    color:crimson; 
+}
+table{ 
+    border:1px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid black;   
+    padding: 4px;
+} 
+button{
+    background-color:beige;
+    width: 200px;
+    font-size: 24px;
+
+}
+h2{
+    color:darkolivegreen; 
+}
+
+/* function Hephzibah Peter (){
+    alert('Hello, there!')} */
